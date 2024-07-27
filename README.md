@@ -1,4 +1,4 @@
-<h1>Technical Documentation</h1>
+<h1>FREECODECAMP - Technical Documentation</h1>
 
 <h3>https://venuprakash.github.io/technicaldocumentation/</h3>
 
